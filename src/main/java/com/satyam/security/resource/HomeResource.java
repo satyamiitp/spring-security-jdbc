@@ -9,7 +9,7 @@ public class HomeResource {
 	@GetMapping("/")
 	public String home()
 	{
-		return "Welcome to Home Satyam";
+		return "Welcome to Home Satyam1";
 	}
 	
 	
