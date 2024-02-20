@@ -18,5 +18,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
 spec:
-  type: url
+  type: https://github.com/satyamiitp/spring-security-jdbc/blob/master/docs/index.md
   owner: user:default
